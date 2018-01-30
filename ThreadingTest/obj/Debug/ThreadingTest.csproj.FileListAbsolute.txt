@@ -1,0 +1,10 @@
+C:\Users\Джепс\Documents\Visual Studio 2017\Projects\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.exe
+C:\Users\Джепс\Documents\Visual Studio 2017\Projects\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.pdb
+C:\Users\Джепс\Documents\Visual Studio 2017\Projects\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.csprojResolveAssemblyReference.cache
+C:\Users\Джепс\Documents\Visual Studio 2017\Projects\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.exe
+C:\Users\Джепс\Documents\Visual Studio 2017\Projects\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.pdb
+D:\Docs\Visual Studio 2015\Projects\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.exe
+D:\Docs\Visual Studio 2015\Projects\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.pdb
+D:\Docs\Visual Studio 2015\Projects\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.csprojResolveAssemblyReference.cache
+D:\Docs\Visual Studio 2015\Projects\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.exe
+D:\Docs\Visual Studio 2015\Projects\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.pdb
